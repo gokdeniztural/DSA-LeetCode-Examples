@@ -1,4 +1,4 @@
-nums = [1,3,2,4,7,9,9]
+cnums = [1,3,2,4,7,9,9]
 
 def containsDuplicate():
         hashset = set()
