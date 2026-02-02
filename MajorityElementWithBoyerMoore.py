@@ -14,3 +14,6 @@ def boyerMoore():
     return result
 
 print(boyerMoore())
+
+# Majority problemlerinde bellekten ek bir yer ayırmadan Space Complexity: O(1) 'de çalışır. Bir önceki çözüme göre daha verimlidir.
+# Mantığını oturtmak için defterde çalışıldı...
